@@ -73,7 +73,7 @@ A Data Engineering & Financial Analysis pipeline built in Python to evaluate inv
 │   └── metrics_report.csv         # Calculated metrics report sorted by Cap Rate
 ├── main.py                        # Pipeline execution and calculation engine
 ├── requirements.txt               # Project Python dependencies
-├── .gitignore               # Version control rules
+├── .gitignore                     # Version control rules
 └── README.md                      # Technical documentation
 
 ```
