@@ -1,0 +1,102 @@
+[
+  {
+    "id": "IMOVEL-001",
+    "nome_imovel": "Apartamento Centro - Studio",
+    "valor_compra": 250000.00,
+    "custos_aquisicao": 15000.00,
+    "receita_aluguel_mensal": 2200.00,
+    "despesas_operacionais_mensais": 450.00,
+    "entrada_financiamento": 50000.00,
+    "parcela_mensal_financiamento": 1200.00
+  },
+  {
+    "id": "IMOVEL-002",
+    "nome_imovel": "Sala Comercial - Edifício Empresarial",
+    "valor_compra": 400000.00,
+    "custos_aquisicao": 24000.00,
+    "receita_aluguel_mensal": 3800.00,
+    "despesas_operacionais_mensais": 800.00,
+    "entrada_financiamento": 424000.00,
+    "parcela_mensal_financiamento": 0.00
+  },
+  {
+    "id": "IMOVEL-003",
+    "nome_imovel": "Casa Residencial - Bairro Universitário",
+    "valor_compra": 180000.00,
+    "custos_aquisicao": 10000.00,
+    "receita_aluguel_mensal": 1100.00,
+    "despesas_operacionais_mensais": 300.00,
+    "entrada_financiamento": 36000.00,
+    "parcela_mensal_financiamento": 950.00
+  },
+  {
+    "id": "IMOVEL-004",
+    "nome_imovel": "Apartamento 2 Quatros - Zona Sul",
+    "valor_compra": 320000.00,
+    "custos_aquisicao": 18000.00,
+    "receita_aluguel_mensal": 2800.00,
+    "despesas_operacionais_mensais": 550.00,
+    "entrada_financiamento": 64000.00,
+    "parcela_mensal_financiamento": 1600.00
+  },
+  {
+    "id": "IMOVEL-005",
+    "nome_imovel": "Galpão Logístico - Perímetro Urbano",
+    "valor_compra": 1200000.00,
+    "custos_aquisicao": 60000.00,
+    "receita_aluguel_mensal": 11500.00,
+    "despesas_operacionais_mensais": 2100.00,
+    "entrada_financiamento": 1260000.00,
+    "parcela_mensal_financiamento": 0.00
+  },
+  {
+    "id": "IMOVEL-006",
+    "nome_imovel": "Apartamento Duplex - Alto da XV",
+    "valor_compra": 650000.00,
+    "custos_aquisicao": 32000.00,
+    "receita_aluguel_mensal": 5200.00,
+    "despesas_operacionais_mensais": 1100.00,
+    "entrada_financiamento": 130000.00,
+    "parcela_mensal_financiamento": 3400.00
+  },
+  {
+    "id": "IMOVEL-007",
+    "nome_imovel": "Sobrado Familiar - Zona Norte",
+    "valor_compra": 280000.00,
+    "custos_aquisicao": 14000.00,
+    "receita_aluguel_mensal": 2100.00,
+    "despesas_operacionais_mensais": 400.00,
+    "entrada_financiamento": 56000.00,
+    "parcela_mensal_financiamento": 1350.00
+  },
+  {
+    "id": "IMOVEL-008",
+    "nome_imovel": "Loja Térrea - Avenida Principal",
+    "valor_compra": 500000.00,
+    "custos_aquisicao": 25000.00,
+    "receita_aluguel_mensal": 4500.00,
+    "despesas_operacionais_mensais": 900.00,
+    "entrada_financiamento": 100000.00,
+    "parcela_mensal_financiamento": 2800.00
+  },
+  {
+    "id": "IMOVEL-009",
+    "nome_imovel": "Studio Executivo - Vila Nova",
+    "valor_compra": 210000.00,
+    "custos_aquisicao": 11000.00,
+    "receita_aluguel_mensal": 1900.00,
+    "despesas_operacionais_mensais": 380.00,
+    "entrada_financiamento": 221000.00,
+    "parcela_mensal_financiamento": 0.00
+  },
+  {
+    "id": "IMOVEL-010",
+    "nome_imovel": "Terreno Comercial - Zona Leste",
+    "valor_compra": 350000.00,
+    "custos_aquisicao": 15000.00,
+    "receita_aluguel_mensal": 2900.00,
+    "despesas_operacionais_mensais": 500.00,
+    "entrada_financiamento": 70000.00,
+    "parcela_mensal_financiamento": 1850.00
+  }
+]

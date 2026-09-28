@@ -1,0 +1,11 @@
+﻿id,nome_imovel,custo_total_aquisicao,capital_proprio_investido,noi_anual,fluxo_caixa_anual,cap_rate_pct,cash_on_cash_pct
+IMOVEL-005,Galpão Logístico - Perímetro Urbano,1260000.0,1320000.0,112800.0,112800.0,8.95,8.55
+IMOVEL-002,Sala Comercial - Edifício Empresarial,424000.0,448000.0,36000.0,36000.0,8.49,8.04
+IMOVEL-009,Studio Executivo - Vila Nova,221000.0,232000.0,18240.0,18240.0,8.25,7.86
+IMOVEL-008,Loja Térrea - Avenida Principal,525000.0,125000.0,43200.0,9600.0,8.23,7.68
+IMOVEL-004,Apartamento 2 Quatros - Zona Sul,338000.0,82000.0,27000.0,7800.0,7.99,9.51
+IMOVEL-001,Apartamento Centro - Studio,265000.0,65000.0,21000.0,6600.0,7.92,10.15
+IMOVEL-010,Terreno Comercial - Zona Leste,365000.0,85000.0,28800.0,6600.0,7.89,7.76
+IMOVEL-006,Apartamento Duplex - Alto da XV,682000.0,162000.0,49200.0,8400.0,7.21,5.19
+IMOVEL-007,Sobrado Familiar - Zona Norte,294000.0,70000.0,20400.0,4200.0,6.94,6.0
+IMOVEL-003,Casa Residencial - Bairro Universitário,190000.0,46000.0,9600.0,-1800.0,5.05,-3.91

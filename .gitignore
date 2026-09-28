@@ -1,0 +1,22 @@
+# Python bytecode e caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+ENV/
+
+# Arquivos de ambiente e chaves
+.env
+
+# Cache de IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de saida temporarios (opcional - mantemos comentados para versionar os exemplos de relatorio)
+# data/metrics_report.csv
