@@ -23,30 +23,36 @@ A Data Engineering & Financial Analysis pipeline built in Python to evaluate inv
 
 ---
 
-## 🧮 Applied Financial Formulas
 
-* **Total Acquisition Cost:** $\text{Purchase Price} + \text{Closing / Renovation Costs}$
-* **Net Operating Income (NOI):** $(\text{Monthly Rent} - \text{Monthly OpEx}) \times 12$
-* **Annual Cash Flow:** $\text{NOI} - (\text{Monthly Mortgage Payment} \times 12)$
-* **Cap Rate (%):** $\left( \frac{\text{NOI}}{\text{Total Acquisition Cost}} \right) \times 100$
-* **Cash-on-Cash Return (%):** $\left( \frac{\text{Annual Cash Flow}}{\text{Initial Cash Outlay}} \right) \times 100$
 
----
-
-### 📊 Key Financial Metrics
+## 📊 Key Financial Metrics & Formulas / Métricas e Fórmulas Financeiras
 
 * **NOI (Net Operating Income / Receita Operacional Líquida)**
-  * 🇬🇧 Annual property revenue minus operating expenses, before debt service and taxes.
-  * 🇧🇷 Receita anual do imóvel menos despesas operacionais, antes de dívidas e impostos.
+  * 🇬🇧 Annual revenue minus operating expenses (pre-debt/tax).
+  * 🇧🇷 Receita anual menos despesas operacionais (antes de dívidas e impostos).
+  * 🧮 **Formula:** $(\text{Monthly Rent / Aluguel Mensal} - \text{Monthly OpEx / Despesas Mensais}) \times 12$
+
+* **Total Acquisition Cost / Custo Total de Aquisição**
+  * 🇬🇧 Total capital required to acquire and prepare the property.
+  * 🇧🇷 Capital total necessário para adquirir e preparar o imóvel.
+  * 🧮 **Formula:** $\text{Purchase Price / Preço de Compra} + \text{Closing Costs / Custos de Aquisição}$
+
+* **Annual Cash Flow / Fluxo de Caixa Anual**
+  * 🇬🇧 Net cash remaining after paying all operating expenses and debt service.
+  * 🇧🇷 Saldo líquido restante após pagar despesas operacionais e financiamento.
+  * 🧮 **Formula:** $\text{NOI} - (\text{Monthly Mortgage / Parcela Mensal} \times 12)$
 
 * **Cap Rate (Capitalization Rate / Taxa de Capitalização)**
-  * 🇬🇧 Unleveraged annual return rate based on property purchase price ($\text{NOI} / \text{Total Cost}$).
-  * 🇧🇷 Taxa de retorno anual sem alavancagem sobre o custo total do imóvel ($\text{NOI} / \text{Custo Total}$).
+  * 🇬🇧 Unleveraged annual return over total property cost.
+  * 🇧🇷 Retorno anual sem alavancagem sobre o custo total do imóvel.
+  * 🧮 **Formula:** $\left( \frac{\text{NOI}}{\text{Total Acquisition Cost / Custo Total}} \right) \times 100$
 
 * **Cash-on-Cash Return (CoC / Retorno sobre Capital Próprio)**
-  * 🇬🇧 Net annual cash flow percentage relative to actual cash invested ($\text{Cash Flow} / \text{Cash Invested}$).
-  * 🇧🇷 Percentual do fluxo de caixa anual em relação ao capital próprio investido ($\text{Fluxo de Caixa} / \text{Capital Investido}$).
-  ---
+  * 🇬🇧 Annual cash flow percentage relative to actual equity invested.
+  * 🇧🇷 Percentual do fluxo de caixa anual sobre o capital próprio investido.
+  * 🧮 **Formula:** $\left( \frac{\text{Annual Cash Flow / Fluxo de Caixa}}{\text{Initial Cash Outlay / Capital Próprio}} \right) \times 100$
+
+---
 
 
 ## 🛠️ Tech Stack
