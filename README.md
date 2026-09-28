@@ -4,7 +4,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=flat-square&logo=pandas)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Data%20Validation-E92063?style=flat-square&logo=pydantic)
 
-A Data Engineering & Financial Analysis pipeline built in Python to evaluate investment properties. It validates property financial payloads, computes key metrics (**NOI**, **Cap Rate**, **Cash-on-Cash Return**, and **Annual Cash Flow**), and ranks investments for portfolio decision-making.
+🇬🇧 A Data Engineering & Financial Analysis pipeline built in Python to evaluate investment properties. It validates property financial payloads, computes key metrics (NOI, Cap Rate, Cash-on-Cash Return, and Annual Cash Flow), and ranks investments for portfolio decision-making.
+
+🇧🇷 Um pipeline de Engenharia de Dados e Análise Financeira desenvolvido em Python para avaliação de investimentos imobiliários. O sistema valida os dados de entrada, calcula métricas essenciais (NOI, Cap Rate, Cash-on-Cash Return e Fluxo de Caixa Anual) e ranqueia as melhores oportunidades para tomada de decisão
 
 ---
 
