@@ -33,6 +33,22 @@ A Data Engineering & Financial Analysis pipeline built in Python to evaluate inv
 
 ---
 
+### 📊 Key Financial Metrics
+
+* **NOI (Net Operating Income / Receita Operacional Líquida)**
+  * 🇬🇧 Annual property revenue minus operating expenses, before debt service and taxes.
+  * 🇧🇷 Receita anual do imóvel menos despesas operacionais, antes de dívidas e impostos.
+
+* **Cap Rate (Capitalization Rate / Taxa de Capitalização)**
+  * 🇬🇧 Unleveraged annual return rate based on property purchase price ($\text{NOI} / \text{Total Cost}$).
+  * 🇧🇷 Taxa de retorno anual sem alavancagem sobre o custo total do imóvel ($\text{NOI} / \text{Custo Total}$).
+
+* **Cash-on-Cash Return (CoC / Retorno sobre Capital Próprio)**
+  * 🇬🇧 Net annual cash flow percentage relative to actual cash invested ($\text{Cash Flow} / \text{Cash Invested}$).
+  * 🇧🇷 Percentual do fluxo de caixa anual em relação ao capital próprio investido ($\text{Fluxo de Caixa} / \text{Capital Investido}$).
+  ---
+
+
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.10+
@@ -56,8 +72,9 @@ A Data Engineering & Financial Analysis pipeline built in Python to evaluate inv
 
 ```
 
----
 
+
+---
 ## ⚙️ Setup & Execution
 
 1. **Clone the repository:**
